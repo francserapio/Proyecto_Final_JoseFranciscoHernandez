@@ -112,4 +112,4 @@ precio_final = precio_base + recargo_total
 //Resultado
 alert ("Para el asegurado "+nombre)
 alert ("El recargo total sera de: "+recargo_total)
-alert ("El precio sera de: "+precio_final)
+alert ("El precio sera de: "+precio_fi
